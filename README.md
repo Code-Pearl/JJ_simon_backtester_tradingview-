@@ -1,6 +1,8 @@
 # JJSimon Strategy By K - Backtester - BY CODE__PEARL 
 
 > A sophisticated Pine Script trading strategy for backtesting with session-based fair price tracking, breakout detection, and dynamic risk management.
+>
+!test.jpg [ test curve] 
 
 ## 📋 Overview
 
