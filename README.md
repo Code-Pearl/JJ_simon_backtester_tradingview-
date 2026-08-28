@@ -2,7 +2,7 @@
 
 > A sophisticated Pine Script trading strategy for backtesting with session-based fair price tracking, breakout detection, and dynamic risk management.
 >
-!test.jpg [ test curve] 
+!test.png [ test curve] 
 
 ## 📋 Overview
 
